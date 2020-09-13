@@ -1,3 +1,5 @@
-# helloworld
-helloworld
-Hello how are you what is your name
+#!/bin/bash
+
+echo "So it is time to test again"
+
+echo "Muhahahaha"
